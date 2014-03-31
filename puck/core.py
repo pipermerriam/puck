@@ -12,7 +12,7 @@ def enebriate(sequence, start=0):
     n = start
     for element in sequence:
         while True:
-            if random.randint(0, 100) < 99:
+            if random.randint(0, 100) < 1:
                 break
 
             yield n, element
