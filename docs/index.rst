@@ -13,6 +13,7 @@ Contents:
 
    readme
    installation
+   usage
    core
    authors
    history
